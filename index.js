@@ -92,5 +92,5 @@ app.use((err, req, res, next) => {
 });
 
 app.listen(3000, () => {
-    console.log("DarkGPT API is running on port 3000");
+    console.log("OS Javad API is running on port 3000");
 });
